@@ -1,6 +1,6 @@
 # npmtest-angular2-mdl
 
-#### test coverage for  [angular2-mdl (v2.13.2)](http://mseemann.io/angular2-mdl/)  [![npm package](https://img.shields.io/npm/v/npmtest-angular2-mdl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2-mdl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2-mdl.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2-mdl)
+#### basic test coverage for  [angular2-mdl (v2.13.2)](http://mseemann.io/angular2-mdl/)  [![npm package](https://img.shields.io/npm/v/npmtest-angular2-mdl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-angular2-mdl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-angular2-mdl.svg)](https://travis-ci.org/npmtest/node-npmtest-angular2-mdl)
 
 #### Angular 2 components, directives and styles based on material design lite https://getmdl.io.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-angular2-mdl/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-angular2-mdl/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-angular2-mdl/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-angular2-mdl/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular2-mdl/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular2-mdl/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-angular2-mdl/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-angular2-mdl/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-angular2-mdl/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-angular2-mdl/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-angular2-mdl/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-angular2-mdl/build/coverage.html/index.html)
 
@@ -89,7 +89,8 @@
     },
     "scripts": {},
     "typings": "./components/index.d.ts",
-    "version": "2.13.2"
+    "version": "2.13.2",
+    "bin": {}
 }
 ```
 
